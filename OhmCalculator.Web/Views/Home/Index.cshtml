@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-controller="homeCtrl">
+    <div class="one-band">
+        <label for="bandA">Band A</label>
+        <select id="bandA" ng-model="model.bandAColor" class="form-control" ng-change="updateColorinControl()">
+            <option ng-repeat="color in colors" value="{{color}}">{{color}}</option>
+        </select>
+    </div>
+    <div class="one-band">
+        <label for="bandB">Band B</label>
+        <select id="bandB" ng-model="model.bandBColor" class="form-control">
+            <option ng-repeat="color in colors" value="{{color}}">{{color}}</option>
+        </select>
+    </div>
+    <div class="one-band">
+        <label for="bandC">Band C</label>
+        <select id="bandC" ng-model="model.bandCColor" class="form-control">
+            <option ng-repeat="color in colors" value="{{color}}">{{color}}</option>
+        </select>
+    </div>
+    <div class="one-band">
+        <label for="bandD">Band D</label>
+        <select id="bandD" ng-model="model.bandDColor" class="form-control">
+            <option ng-repeat="color in colors" value="{{color}}">{{color}}</option>
+        </select>
+    </div>
+    <button class="btn btn-danger" ng-click="lookupOhmValue()">Lookup Ohm</button>
+
+    <div id="result" class="alert alert-success" role="alert">
+        <strong>Result: {{result}} Ohm</strong>
+    </div>
+</div>
+
+@section scripts {    
+<script src="~/Scripts/app/app.js"></script>
+}

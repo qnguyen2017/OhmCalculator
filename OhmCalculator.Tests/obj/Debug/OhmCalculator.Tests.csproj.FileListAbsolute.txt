@@ -1,0 +1,9 @@
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\OhmCalculator.Tests.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\OhmCalculator.Tests.pdb
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\OhmCalculator.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\OhmCalculator.pdb
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\obj\Debug\OhmCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\obj\Debug\OhmCalculator.Tests.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator.Tests\obj\Debug\OhmCalculator.Tests.pdb

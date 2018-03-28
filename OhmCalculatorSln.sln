@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmCalculator", "OhmCalculator\OhmCalculator.csproj", "{052BB6DD-4555-4226-A777-69914AB5B9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmCalculator.Tests", "OhmCalculator.Tests\OhmCalculator.Tests.csproj", "{DC900FC0-6804-4851-ABEE-E5EDAC770C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmCalculator.Web", "OhmCalculator.Web\OhmCalculator.Web.csproj", "{FF51A2B5-65C1-49D8-808B-604C9CA64022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052BB6DD-4555-4226-A777-69914AB5B9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052BB6DD-4555-4226-A777-69914AB5B9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052BB6DD-4555-4226-A777-69914AB5B9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052BB6DD-4555-4226-A777-69914AB5B9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC900FC0-6804-4851-ABEE-E5EDAC770C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC900FC0-6804-4851-ABEE-E5EDAC770C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC900FC0-6804-4851-ABEE-E5EDAC770C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC900FC0-6804-4851-ABEE-E5EDAC770C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF51A2B5-65C1-49D8-808B-604C9CA64022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF51A2B5-65C1-49D8-808B-604C9CA64022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF51A2B5-65C1-49D8-808B-604C9CA64022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF51A2B5-65C1-49D8-808B-604C9CA64022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

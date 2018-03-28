@@ -1,0 +1,4 @@
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator\bin\Debug\OhmCalculator.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator\bin\Debug\OhmCalculator.pdb
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator\obj\Debug\OhmCalculator.dll
+C:\Users\qnguyen\Downloads\OhmCalculatorSln\OhmCalculatorSln\OhmCalculator\obj\Debug\OhmCalculator.pdb
